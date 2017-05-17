@@ -1,3 +1,5 @@
+[![Docker Pulls](https://img.shields.io/docker/pulls/rrobinaa/elasticsearch-curator-docker.svg)](https://hub.docker.com/r/robinaa/elasticsearch-curator-docker/)
+
 # Managing indices through Curator
 
 
