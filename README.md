@@ -1,3 +1,6 @@
+[![](https://images.microbadger.com/badges/image/robinaa/elasticsearch-curator-docker:release-5.0.0.svg)](https://microbadger.com/images/robinaa/elasticsearch-curator-docker:release-5.0.0 "Get your own image badge on microbadger.com")
+
+
 # Managing indices through Curator
 
 
